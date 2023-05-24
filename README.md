@@ -7,3 +7,5 @@ Docker version of the ORB-SLAM2 project
     -e DISPLAY=host.docker.internal:0 \
     -v /tmp/.X11-unix:/tmp/.X11-unix \
     orb_slam_image
+
+This implementation is derived from the following repo: https://github.com/EricLYang/ORB-SLAM2-Example
